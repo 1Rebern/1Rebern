@@ -68,4 +68,4 @@ The purpose of the project was to familiarize myself with the API.
 After completing it, I have a basic understanding of working with API requests.
 
 # Contact Info:
-* LinkedIn: [Oleksandr H.](https://www.linkedin.com/in/oleksandr-hurba-173057343/)
+* LinkedIn: [Oleksandr Hurba](https://www.linkedin.com/in/oleksandr-hurba-173057343/)
