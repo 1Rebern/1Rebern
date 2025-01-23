@@ -1,4 +1,4 @@
-# Smart alarm clock with dawn simulation.
+# [Smart alarm clock with dawn simulation.](https://github.com/1Rebern/smart-alarm-clock-esp32)
 <p align="left"> <a href="https://github.com/1Rebern/smart-alarm-clock-esp32"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a></p>
 A STEM project developed for the competition organized by CEMARK.
 
@@ -12,7 +12,7 @@ During the project, i acquired the following skills:
 * Work with ESP32 microcontrollers.
 * Developing code for microcontrollers.
 
-# Voice assistant in Ukrainian.
+# [Voice assistant in Ukrainian.](https://github.com/1Rebern/annabelle-voice-assistant-ua)
 <p align="left"> <a href="https://github.com/1Rebern/annabelle-voice-assistant-ua"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 A project I decided to develop in my spare time.
@@ -29,7 +29,7 @@ I developed three libraries for the project:
 * [text_to_number_ua](https://github.com/1Rebern/annabelle-voice-assistant-ua/blob/b4bf5c2a84730910915c2596c8fef53ffff4dc06/Lib/text_to_number_ua.py)
 * [time_to_text_ua](https://github.com/1Rebern/annabelle-voice-assistant-ua/blob/b4bf5c2a84730910915c2596c8fef53ffff4dc06/Lib/time_to_text_ua.py)
 
-# A program for encrypting and decrypting text messages using symmetric or asymmetric encryption.
+# [A program for encrypting and decrypting text messages using symmetric or asymmetric encryption.](https://github.com/1Rebern/encrypting-and-decrypting)
 <p align="left"> <a href="https://github.com/1Rebern/encrypting-and-decrypting"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 A course project.
@@ -42,9 +42,12 @@ Framework:
 
 Python was chosen because of the large number of custom libraries and easy GUI creation.
 
-* !!!!
+After writing the project, I gained knowledge about:
+* RSA encryption method.
+* Working with Piside6.
+* Work with the re module
 
-# A program for converting numbers to text in Ukrainian.
+# [A program for converting numbers to text in Ukrainian.](https://github.com/1Rebern/number-to-text-ua)
 <p align="left"> <a href="https://github.com/1Rebern/number-to-text-ua"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 The program was developed during the technological practice.
@@ -57,7 +60,7 @@ Programming language:
 Framework:
 * Piside6.
 
-# Program for converting dollars to bitcoins using api.
+# [Program for converting dollars to bitcoins using api.](https://github.com/1Rebern/bitcoin-to-dollars-api)
 <p align="left"> <a href="https://github.com/1Rebern/bitcoin-to-dollars-api"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 The purpose of the project was to familiarize myself with the API.
