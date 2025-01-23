@@ -17,7 +17,7 @@ During the project, i acquired the following skills:
 </p>
 A project I decided to develop in my spare time.
 
-The goal of the project was to test their skills and create an assistant for working with computers.
+The goal of the project was to test my skills and create an assistant for working with computers.
 
 The latest version is quite flexible, but I will continue to improve and develop the project.
 
