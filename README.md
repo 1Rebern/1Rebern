@@ -13,7 +13,7 @@ My projects range from Python applications and language-processing tools to ESP3
 | Area | Technologies |
 |---|---|
 | **Programming** | Python · C++ · C# |
-| **Embedded** | ESP32 · ESP32-C3 · Arduino |
+| **Embedded** | ESP32 · ESP32-C3 |
 | **Interfaces & Protocols** | I2C · SPI · Wi-Fi |
 | **Python** | PySide6 · Vosk · RapidFuzz · audio processing |
 | **IoT** | Telegram Bot API · SD cards · NTP |
@@ -147,7 +147,6 @@ A C# / .NET desktop application demonstrating API communication, JSON processing
 ---
 
 ## 📫 Contact
-- LinkedIn: [Oleksandr Hurba](https://www.linkedin.com/in/oleksandr-hurba-173057343/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Oleksandr%20Hurba-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-hurba-173057343/)
 
