@@ -1,71 +1,154 @@
-# [Smart alarm clock with dawn simulation.](https://github.com/1Rebern/smart-alarm-clock-esp32)
-<p align="left"> <a href="https://github.com/1Rebern/smart-alarm-clock-esp32"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a></p>
-A STEM project developed for the competition organized by CEMARK.
+# 👋 Hi, I'm Oleksandr Hurba
 
-Programming language:
-* C++ (Arduino platform).
+### Python Developer · Embedded Systems · Automation
 
-During the project, i acquired the following skills:
-* Working with 3D printers.
-* Creating 3D models in the Fusion 360 program.
-* Development and creation of a finished product.
-* Work with ESP32 microcontrollers.
-* Developing code for microcontrollers.
+I build software and hardware projects focused on practical problem solving, automation and embedded systems.
 
-# [Voice assistant in Ukrainian.](https://github.com/1Rebern/annabelle-voice-assistant-ua)
-<p align="left"> <a href="https://github.com/1Rebern/annabelle-voice-assistant-ua"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+My projects range from Python applications and language-processing tools to ESP32-based devices with custom electronics, firmware and 3D-printed enclosures.
+
+---
+
+## 🧠 Engineering Focus
+
+| Area | Technologies |
+|---|---|
+| **Programming** | Python · C++ · C# |
+| **Embedded** | ESP32 · ESP32-C3 · Arduino |
+| **Interfaces & Protocols** | I2C · SPI · Wi-Fi |
+| **Python** | PySide6 · Vosk · RapidFuzz · audio processing |
+| **IoT** | Telegram Bot API · SD cards · NTP |
+| **Hardware** | Sensors · OLED displays · audio amplifiers · LED control |
+| **Design & Prototyping** | Fusion 360 · 3D printing · soldering |
+
+---
+
+## 🚀 Featured Engineering Projects
+
+### 🌅 [Smart Alarm Clock with Dawn Simulation](https://github.com/1Rebern/smart-alarm-clock-esp32)
+
+An ESP32-based IoT alarm clock designed and assembled as a complete physical device.
+
+**Engineering highlights:**
+
+- ESP32 firmware written in C++ / Arduino
+- Sunrise simulation using an LED strip
+- Audio playback through MAX98357A
+- SD-card based audio storage
+- Telegram bot for remote control
+- NTP-based time synchronization
+- Custom electronics wiring and system design
+- 3D-modeled and 3D-printed enclosure
+
+The repository contains the system diagram, 3D models, assembly photos and examples of Telegram control.
+
+[→ View repository](https://github.com/1Rebern/smart-alarm-clock-esp32)
+
+---
+
+### 🎙️ [Annabelle — Ukrainian Voice Assistant](https://github.com/1Rebern/annabelle-voice-assistant-ua)
+
+A Ukrainian voice assistant designed to interact with a computer using voice commands.
+
+**Engineering highlights:**
+
+- Speech recognition using Vosk
+- Ukrainian speech synthesis
+- Audio input/output processing
+- Fuzzy command matching with RapidFuzz
+- Keyboard interaction
+- Text normalization and processing
+- Custom Ukrainian language-processing libraries
+
+Self-developed libraries:
+
+- `number_to_text_ua`
+- `text_to_number_ua`
+- `time_to_text_ua`
+
+[→ View repository](https://github.com/1Rebern/annabelle-voice-assistant-ua)
+
+---
+
+### 🌡️ [ESP32-C3 Portable Thermo-Hygrometer](https://github.com/1Rebern/esp32c3-thermo-hygrometer)
+
+A portable battery-powered temperature and humidity monitor built around an ESP32-C3 Super Mini.
+
+**Hardware:**
+
+- ESP32-C3 Super Mini
+- DHT11 temperature and humidity sensor
+- 128×64 SSD1306 OLED
+- Nokia battery (~800 mAh)
+- Custom 3D-printed enclosure
+
+The project also documents the practical limitations discovered during testing, including thermal influence from the charging circuitry, slow sensor stabilization and limited battery life.
+
+[→ View repository](https://github.com/1Rebern/esp32c3-thermo-hygrometer)
+
+---
+
+### 🔐 [Encryption & Decryption Tool](https://github.com/1Rebern/encrypting-and-decrypting)
+
+A Python desktop application for encrypting and decrypting text using two approaches:
+
+- Caesar cipher
+- RSA
+
+Built with PySide6 and the `cryptography` library.
+
+[→ View repository](https://github.com/1Rebern/encrypting-and-decrypting)
+
+---
+
+### 🔢 [Number to Ukrainian Text](https://github.com/1Rebern/number-to-text-ua)
+
+A Python application for converting numbers into Ukrainian text.
+
+Built with PySide6 and QML.
+
+The project also became one of the language-processing components used in the Annabelle voice assistant.
+
+[→ View repository](https://github.com/1Rebern/number-to-text-ua)
+
+---
+
+### 💱 [Bitcoin API Converter](https://github.com/1Rebern/bitcoin-to-dollars-api)
+
+A C# / .NET desktop application demonstrating API communication, JSON processing and a Windows Forms interface.
+
+[→ View repository](https://github.com/1Rebern/bitcoin-to-dollars-api)
+
+---
+
+## 📊 GitHub Overview
+
+<p>
+  <a href="https://github.com/1Rebern">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=1Rebern&show_icons=true&hide_border=true&rank=false" />
+  </a>
+  <a href="https://github.com/1Rebern">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Rebern&layout=donut&langs_count=6&size_weight=0.5&count_weight=0.5&hide_border=true" />
+  </a>
 </p>
-A project I decided to develop in my spare time.
 
-The goal of the project was to test my skills and create an assistant for working with computers.
+> The language chart represents the distribution of code across public repositories. It is a repository metric, not a measurement of programming skill.
 
-The latest version is quite flexible, but I will continue to improve and develop the project.
+---
 
-Programming language:
-* Python.
+## 🔬 What I Like Building
 
-I developed three libraries for the project:
-* [number_to_text_ua](https://github.com/1Rebern/annabelle-voice-assistant-ua/blob/b4bf5c2a84730910915c2596c8fef53ffff4dc06/Lib/number_to_text_ua.py)
-* [text_to_number_ua](https://github.com/1Rebern/annabelle-voice-assistant-ua/blob/b4bf5c2a84730910915c2596c8fef53ffff4dc06/Lib/text_to_number_ua.py)
-* [time_to_text_ua](https://github.com/1Rebern/annabelle-voice-assistant-ua/blob/b4bf5c2a84730910915c2596c8fef53ffff4dc06/Lib/time_to_text_ua.py)
+- Embedded devices and IoT systems
+- Automation software
+- Voice and language-processing tools
+- Desktop applications
+- Hardware/software prototypes
+- Practical projects that combine electronics, software and mechanical design
 
-# [A program for encrypting and decrypting text messages using symmetric or asymmetric encryption.](https://github.com/1Rebern/encrypting-and-decrypting)
-<p align="left"> <a href="https://github.com/1Rebern/encrypting-and-decrypting"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-A course project.
+---
 
-Programming language:
-* Python.
+## 📫 Contact
+- LinkedIn: [Oleksandr Hurba](https://www.linkedin.com/in/oleksandr-hurba-173057343/)
 
-Framework:
-* Piside6.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Oleksandr%20Hurba-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-hurba-173057343/)
 
-Python was chosen because of the large number of custom libraries and easy GUI creation.
-
-After writing the project, I gained knowledge about:
-* RSA encryption method.
-* Working with Piside6.
-* Work with the re module
-
-# [A program for converting numbers to text in Ukrainian.](https://github.com/1Rebern/number-to-text-ua)
-<p align="left"> <a href="https://github.com/1Rebern/number-to-text-ua"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-The program was developed during the technological practice.
-
-The purpose of the program is to facilitate the work of the bookkeeping department.
-
-Programming language:
-* Python.
- 
-Framework:
-* Piside6.
-
-# [Program for converting dollars to bitcoins using api.](https://github.com/1Rebern/bitcoin-to-dollars-api)
-<p align="left"> <a href="https://github.com/1Rebern/bitcoin-to-dollars-api"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
-</p>
-The purpose of the project was to familiarize myself with the API.
-
-After completing it, I have a basic understanding of working with API requests.
-
-# Contact Info:
-* LinkedIn: [Oleksandr Hurba](https://www.linkedin.com/in/oleksandr-hurba-173057343/)
+[![GitHub](https://img.shields.io/badge/GitHub-1Rebern-181717?style=flat&logo=github&logoColor=white)](https://github.com/1Rebern)
